@@ -1,10 +1,6 @@
 import pic1 from './assets/icons8-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-100.png';
 import pic2 from './assets/icons8-css3-100.png';
 import pic3 from './assets/icons8-git-100.png';
-import pic4 from './assets/icons8-javascript-logo-100.png';
-import stopwatch from './assets/stopwatch.png';
-import timer from './assets/timer.png';
-import digitalclock from './assets/digitalclock.png';
 import igclone from './assets/ig-clone.png';
 import googlesearch from './assets/google-search.png';
 import udemy from './assets/udemy-pic.png';
@@ -16,7 +12,7 @@ import growviral from './assets/growviral.png';
 import Navbar from './Navbar';
 import {HouseHeart, Tools, Telephone, Terminal, FileEarmarkPerson } from 'react-bootstrap-icons';
 import React from 'react';
-import {Link} from 'react-router-dom';
+// import {Link} from 'react-router-dom';
 import Aboutme from './Aboutme';
 
 // import newNav from './Nav2';
