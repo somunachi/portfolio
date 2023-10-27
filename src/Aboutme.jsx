@@ -2,7 +2,7 @@ import React from 'react'
 
 const Aboutme = () => {
   return (
-    <section className="page-section aboutmesctn">
+    <section className="page-section aboutmesctn" id='aboutme'>
     <h2 className="aboutmeheading">About Me</h2>
     <p className='about-me'>
         Hello! I am a junior web developer with an aptitude for problem solving and critical thinking. I graduated from the prestigious University of Ibadan with a degree in Physiotherapy but I started 
