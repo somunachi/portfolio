@@ -1,13 +1,13 @@
-import React from 'react';
-import Content from './content';
-import ScrollMenu from './ScrollMenu';
 import Navbar from './Navbar';
+import ScrollMenu from './ScrollMenu';
+import Content from './content';
+
 
 const Hero = () => {
   return (
     <section className="page-section" id='Home'>
         <div className="hero">
-            <Navbar/>
+            <Navbar />
             <Content />
             <ScrollMenu />
         </div>

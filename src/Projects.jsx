@@ -1,4 +1,3 @@
-import React from 'react';
 import igclone from './assets/ig-clone.png';
 import googlesearch from './assets/google-search.png';
 import udemy from './assets/udemy-pic.png';

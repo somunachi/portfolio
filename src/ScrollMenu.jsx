@@ -1,6 +1,6 @@
-import React from 'react';
 import {HouseHeart, Tools, Telephone, Terminal, FileEarmarkPerson } from 'react-bootstrap-icons';
 import { Link } from 'react-router-dom';
+
 
 const ScrollMenu = () => {
   return (
@@ -13,7 +13,6 @@ const ScrollMenu = () => {
         </div>
     </div>
 
-    
     <div className="abt">
         <a href='#aboutme'><FileEarmarkPerson size={20} color='white'/></a>
         

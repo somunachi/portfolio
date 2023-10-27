@@ -1,4 +1,3 @@
-import React from 'react';
 import Aboutme from './Aboutme';
 import Skillset from './Skillset';
 import Projects from './Projects';
