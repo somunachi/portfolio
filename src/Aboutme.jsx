@@ -1,4 +1,4 @@
-import aboutmepic from './assets/CLZA8825.jpg';
+import aboutmepic from './assets/birthdaystand.png';
 
 const Aboutme = () => {
   return (
