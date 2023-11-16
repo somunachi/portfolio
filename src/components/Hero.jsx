@@ -1,6 +1,6 @@
 import Navbar from './Navbar';
 import ScrollMenu from './ScrollMenu';
-import Content from './content';
+import Content from './Content';
 
 
 const Hero = () => {

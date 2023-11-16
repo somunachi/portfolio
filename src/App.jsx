@@ -1,9 +1,9 @@
-import Aboutme from './Aboutme';
-import Skillset from './Skillset';
-import Projects from './Projects';
-import Connect from './Connect';
+import Aboutme from './components/Aboutme';
+import Skillset from './components/Skillset';
+import Projects from './components/Projects';
+import Connect from './components/Connect';
 import { Route, Routes } from 'react-router-dom';
-import Hero from './Hero';
+import Hero from './components/Hero';
 
 function App() {
   return (

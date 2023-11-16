@@ -1,7 +1,7 @@
-import pic1 from './assets/icons8-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-100.png';
-import pic2 from './assets/icons8-css3-100.png';
-import pic3 from './assets/icons8-git-100.png';
-import reactpic from './assets/icons8-react-96.png';
+import pic1 from '../assets/icons8-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-100.png';
+import pic2 from '../assets/icons8-css3-100.png';
+import pic3 from '../assets/icons8-git-100.png';
+import reactpic from '../assets/icons8-react-96.png';
 
 const Skillset = () => {
   return (

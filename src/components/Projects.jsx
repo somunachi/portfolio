@@ -1,10 +1,10 @@
-import igclone from './assets/ig-clone.png';
-import googlesearch from './assets/google-search.png';
-import udemy from './assets/udemy-pic.png';
-import netflix from './assets/Capture.png';
-import messi from './assets/lionel-messi-search.png';
-import loanify from './assets/loanifypic.png';
-import growviral from './assets/growviral.png';
+import igclone from '../assets/ig-clone.png';
+import googlesearch from '../assets/google-search.png';
+import udemy from '../assets/udemy-pic.png';
+import netflix from '../assets/Capture.png';
+import messi from '../assets/lionel-messi-search.png';
+import loanify from '../assets/loanifypic.png';
+import growviral from '../assets/growviral.png';
 
 const Projects = () => {
   return (
