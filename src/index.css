@@ -4,11 +4,9 @@
   font-family: 'Josefin Sans', sans-serif;
   box-sizing: border-box;
   overflow-x: hidden;
- 
- 
 }
 
-body{
+#body{
   overflow-y: auto;
   scroll-snap-type: y mandatory;
 }
@@ -19,7 +17,7 @@ body{
 
 .hero {
   height: 650px;
-  background-image:url(./assets/black.jpg);
+  background-image:url(./assets/background.PNG);
   background-repeat: inherit;
   width: 100%;
   background-color: black;
