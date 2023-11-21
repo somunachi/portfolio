@@ -1,4 +1,8 @@
-    const Skillset = () => {
+import pic1 from '../assets/pictures/icons8-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-100.png';
+import pic2 from '../assets/pictures/icons8-css3-100.png';
+import pic3 from '../assets/pictures/icons8-git-100.png';
+
+const Skillset = () => {
   return (
     <section className="skillset page-section" id='skillset'>
     <div className="main">
@@ -10,19 +14,19 @@
     
         <div className="html-css">
             <div className="html">
-                <img src= '../assets/pictures/icons8-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-100.png' alt="" className="skill-img html-img" />
+                <img src= {pic1} alt="" className="skill-img html-img" />
                 <p className="skill-text">HTML</p>
             </div>
     
             <div className="css">
-                <img src='../assets/pictures/icons8-css3-100.png' alt="" className="skill-img css-img"/>
+                <img src={pic2} alt="" className="skill-img css-img"/>
                 <p className="skill-text1">CSS</p>
             </div>
         </div>
     
        <div className="git-js">
         <div className="git">
-            <img src='../assets/pictures/icons8-git-100.png' alt="" className="git-img"/>
+            <img src={pic3} alt="" className="git-img"/>
             <p className="skill-text2">GIT</p>
         </div>
     

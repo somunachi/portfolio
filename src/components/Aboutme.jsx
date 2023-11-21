@@ -1,4 +1,4 @@
-import aboutmepic from '../assets/pictures/google-search.png';
+import aboutmepic from '../assets/pictures/birthdaystand.png';
 
 const Aboutme = () => {
   return (
