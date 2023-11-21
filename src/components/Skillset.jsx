@@ -1,6 +1,7 @@
 import pic1 from '../assets/pictures/icons8-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-100.png';
 import pic2 from '../assets/pictures/icons8-css3-100.png';
 import pic3 from '../assets/pictures/icons8-git-100.png';
+import reactpic from '../assets/pictures/icons8-react-96.png';
 
 const Skillset = () => {
   return (
@@ -31,7 +32,7 @@ const Skillset = () => {
         </div>
     
         <div className="js">
-            <img src='../assets/pictures/icons8-react-96.png' alt="" className="js-img"/>
+            <img src={reactpic} alt="" className="js-img"/>
             <p className="skill-text3">ReactJS</p>
         </div>
        </div>
