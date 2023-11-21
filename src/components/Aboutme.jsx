@@ -1,4 +1,4 @@
-import {aboutmepic} from '../assets/birthdaystand.png';
+// import {aboutmepic} from '../assets/pictures/google-search.png';
 
 const Aboutme = () => {
   return (
@@ -17,7 +17,7 @@ const Aboutme = () => {
      </p>
 
      <div className="aboutmepic">
-      <img src={aboutmepic} alt="my image" className='aboutmeimg'/>
+      {/* <img src={aboutmepic} alt="my image" className='aboutmeimg'/> */}
      </div>
     </div>
 
