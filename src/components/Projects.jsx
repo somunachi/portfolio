@@ -5,6 +5,7 @@ import netflix from '../assets/pictures/Capture.png';
 import messi from '../assets/pictures/lionel-messi-search.png';
 import loanify from '../assets/pictures/loanifypic.png';
 import growviral from '../assets/pictures/growviral.png';
+import chatapp from '../assets/pictures/chatapp.png';
 
 const Projects = () => {
   return (
@@ -112,6 +113,16 @@ const Projects = () => {
                     <p>Tap to see my <a href="https://shimmering-gaufre-bd33f8.netlify.app" className="clone-link">Digital Clock</a></p>
                 </div>
             </div> */}
+             <div className="clones js-clones">
+                <div className="projects-img timer-img">
+                    <img src={chatapp} alt="" className="clone-img"/>
+                </div>
+
+                <div className="clone-desc">
+                    <button className='project-btn'> <a href="https://github.com/somunachi/ChatApp.git" target="_blank"  className="clone-link">Github</a></button>
+                    <button type='button' className='project-btn'> <a href="https://chat-app-rosy-eta.vercel.app" className="clone-link" target="_blank">Demo</a></button>
+                </div>
+            </div>
         </div>
     </section>
   )
