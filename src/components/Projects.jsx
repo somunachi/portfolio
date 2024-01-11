@@ -5,7 +5,7 @@ import netflix from '../assets/pictures/Capture.png';
 import messi from '../assets/pictures/lionel-messi-search.png';
 import loanify from '../assets/pictures/loanifypic.png';
 import growviral from '../assets/pictures/growviral.png';
-import chatapp from '../assets/pictures/chatapp.png';
+import cocochatapp from '../assets/pictures/chatapp.png';
 
 const Projects = () => {
   return (
@@ -102,20 +102,10 @@ const Projects = () => {
                     <button type='button' className='project-btn'> <a href="https://grow-viral.vercel.app/" className="clone-link" target="_blank">Demo</a></button>
                 </div>
             </div>
-            {/*
-            https://grow-viral.vercel.app/
-            <div className="clones">
-                <div className="projects-img digclock-img">
-                    <img src={digitalclock} alt="" className="clone-img"/>
-                </div>
 
-                <div className="clone-desc">
-                    <p>Tap to see my <a href="https://shimmering-gaufre-bd33f8.netlify.app" className="clone-link">Digital Clock</a></p>
-                </div>
-            </div> */}
              <div className="clones js-clones">
                 <div className="projects-img timer-img">
-                    <img src={chatapp} alt="" className="clone-img"/>
+                    <img src={cocochatapp} alt="" className="clone-img"/>
                 </div>
 
                 <div className="clone-desc">
